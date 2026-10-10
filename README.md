@@ -1,4 +1,4 @@
-# 🫁 AI-Powered Pneumonia Detection System
+# 🫁 Pneumonia Detection System
 
 An end-to-end deep learning project that classifies chest X-ray images into **NORMAL** and **PNEUMONIA** categories using Convolutional Neural Networks (CNNs) and transfer learning. The project benchmarks three architectures and integrates **Grad-CAM** (Gradient-weighted Class Activation Mapping) to visualize image regions driving model predictions.
 
